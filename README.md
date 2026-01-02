@@ -38,3 +38,11 @@
 
 
 <img width="2000" height="1414" alt="1000058584" src="https://github.com/user-attachments/assets/bb7fd451-4063-4f7d-a74d-11760dbce6e7" />
+
+<img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=HALO+NAMA+SAYA+SURYA;SAYA+DARI+LAMPUNG+SELATAN;KEC.+WAY+SULAN;SAYA+ADALAH+DEVELOPER;BOT+WHATSAPP😊"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
